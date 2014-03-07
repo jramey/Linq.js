@@ -1,0 +1,5 @@
+c:\users\jramey\documents\visual studio 2013\Projects\JavaScriptCop\JavaScriptCop\bin\Debug\JavaScriptCop.dll
+c:\users\jramey\documents\visual studio 2013\Projects\JavaScriptCop\JavaScriptCop\bin\Debug\JavaScriptCop.pdb
+c:\users\jramey\documents\visual studio 2013\Projects\JavaScriptCop\JavaScriptCop\obj\Debug\JavaScriptCop.csprojResolveAssemblyReference.cache
+c:\users\jramey\documents\visual studio 2013\Projects\JavaScriptCop\JavaScriptCop\obj\Debug\JavaScriptCop.dll
+c:\users\jramey\documents\visual studio 2013\Projects\JavaScriptCop\JavaScriptCop\obj\Debug\JavaScriptCop.pdb
